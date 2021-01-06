@@ -8,7 +8,7 @@ calcium imaging 실험 분석을 하기 위해, 1) Pyhton 이미지 처리를 �
 
 <div>
 <img width="200"src="https://github.com/risa0122/KIST/issues/1#issue-780801255">
- ![initial](https://github.com/risa0122/KIST/issues/1#issue-780801255)
+ ![initial](https://github.com/risa0122/KIST/issues/1#issue-780801255.png)
 
 <\div>
 
